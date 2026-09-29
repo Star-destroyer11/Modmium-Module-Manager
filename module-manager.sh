@@ -1,4 +1,3 @@
-```bash
 #!/bin/bash
 # Made By Star_destroyer11
 
@@ -609,4 +608,3 @@ mmm() {
 }
 
 mmm
-```
